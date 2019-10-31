@@ -24,3 +24,16 @@
 3. Jika tinggi orang ke-1 dibandingkan dengan orang ke-2 dan orang ke-3, jika menghasilkan nilai benar ( true ) maka orang ke-1 paling tinggi di bandingkan 2 orang tersebut. Contoh
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/56834389/67874641-6ed51a00-faf2-11e9-9f6a-585bca737129.png)
+
+4. Bandingkan kembali tinggi Ke-3 orang tersebut. Orang ke-2 lebih tinggi dari Orang ke-1 dan Ke-3 dan menghasilkan Orang ke-2 lebih tinggi dari Orang ke-1 dan ke-3. dan bandingkan lagi, giliran si orang Ke-3 dengan orang ke-1 dan orang ke-2 maka menghasilkan orang ke-3 paling tinggi. contoh
+
+![Screenshot (47)](https://user-images.githubusercontent.com/56834389/67925103-9918ed00-fb6f-11e9-87f3-bf7626597d9b.png)
+
+- Flowchart mencari ukuran Tubuh paling tinggi
+
+![FL labspy2](https://user-images.githubusercontent.com/56834389/67926808-3d049780-fb74-11e9-8356-70567883e5c4.jpg)
+
+
+Selesai, dengan catatan disini saya hanya membandingkan atau mencari nilai paling tinggi saja tidak yg lain. Kurang lebihnya mohon maaf karena saya masih tahap belajar. Terimakasih
+
+WASSALAMU'ALAIKUM WR.WB
